@@ -20,8 +20,8 @@ To facilitate understanding, examples are provided using Python, and the reader 
 
 ---
 
-### Read here
+### [Read here](https://github.com/jerryfane/Mathematics-and-cryptography-at-the-basis-of-the-Bitcoin-protocol/blob/master/Mathematics%20and%20cryptography%20at%20the%20basis%20of%20the%20Bitcoin%20protocol.pdf)
 
 ---
 
-**Originally written in Italian**
+**Originally written in [Italian](https://github.com/jerryfane/Mathematics-and-cryptography-at-the-basis-of-the-Bitcoin-protocol/blob/master/La%20matematica%20e%20la%20crittografia%20alla%20base%20del%20protocollo%20Bitcoin%E2%80%8B.pdf)**
